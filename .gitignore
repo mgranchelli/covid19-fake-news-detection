@@ -1,6 +1,6 @@
 dataset
 
-relazione/src/*
+report/src/*
 
-!relazione/src/images
-!relazione/src/*.tex
+!report/src/images
+!report/src/*.tex
