@@ -1,5 +1,5 @@
 # Covid19 Fake News Detection 
-This project is a Fake News Detection for the Machine Learning and Intelligent System courses at Roma Tre Univeristy.
+This project is a Fake News Detection for the Machine Learning and Intelligent System courses at Roma Tre University.
 The goal is a binary classification task (real vs fake) and benchmark the annotated dataset with machine learning techniques.
 
 ## Contributors
